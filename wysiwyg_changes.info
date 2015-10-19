@@ -1,0 +1,7 @@
+name = Wysiwyg Changes
+description = Change settings of the Wysiwyg module
+core = 7.x
+
+package = User interface
+
+dependencies[] = wysiwyg
